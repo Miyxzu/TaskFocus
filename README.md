@@ -1,3 +1,3 @@
-# WXT + React
+# Task Focus Extension
 
-This template should help get you started developing with React in WXT.
+rewriting my whole IA in react now.
